@@ -22,13 +22,13 @@ body{
 .navbar-inverse .navbar-nav>li>a {
     font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
-    color:black;
-    background-color:white;
+    background-color: white;
+    color: black;
     text-transform:uppercase;
 }
 .navbar-inverse .navbar-nav>li>a:hover {
-    background-color:lightsteelblue;
-    color:white;
+    background-color: lightsteelblue;
+    color: white;
 }
 
 h2{
